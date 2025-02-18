@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoinez&hide=jupyter%20notebook&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=dotfiles&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=macos-dotfiles&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=dotfiles&theme=github_dark)](https://github.com/joaoinez/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=macos-dotfiles&theme=github_dark)](https://github.com/joaoinez/macos-dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=miniserver-dotfiles&theme=github_dark)](https://github.com/joaoinez/miniserver-dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=windows-dotfiles&theme=github_dark)](https://github.com/joaoinez/windows-dotfiles)
