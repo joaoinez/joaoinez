@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=dotfiles)](https://github.com/joaoinez/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=dotfiles&theme=tokyonight)](https://github.com/joaoinez/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoinez&repo=macos-dotfiles&theme=tokyonight)](https://github.com/joaoinez/macos-dotfiles)
